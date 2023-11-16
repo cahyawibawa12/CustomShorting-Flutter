@@ -1,6 +1,13 @@
 # Custom Shorting
 
-A Flutter project.
+A Flutter project for combine two different array to expectation output
+
+array 1 = [2, 3, 1, 3, 2, 4, 6, 7, 9, 2, 19]
+array 2 =  [2, 1, 4, 3, 9, 6]
+
+expectation output
+
+[2, 2, 2, 1, 4, 3, 3, 9, 6, 7, 19]
 
 ## Getting Started
 
